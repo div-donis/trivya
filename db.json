@@ -1,0 +1,22 @@
+{
+  "set": {
+    "target": "confetti-holder",
+    "max": "400",
+    "size": "1",
+    "animate": true,
+    "props": ["square", "triangle", "line"],
+    "colors": [
+      [250, 96, 150],
+      [74, 218, 69],
+      [96, 173, 250],
+      [151, 96, 250],
+      [250, 224, 96]
+    ],
+    "clock": "70",
+    "rotate": false,
+    "width": "",
+    "height": "",
+    "start_from_edge": false,
+    "respawn": false
+  }
+}
